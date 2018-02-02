@@ -1,2 +1,2 @@
-I love git
-I also love vs and android
+I can't love git
+I love vs and android
